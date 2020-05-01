@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   end
 
   resources :about, only: [:show]
+  # resources :about, path: "/about"
 
   # get "about" => "about#show"
   # resources :about do
