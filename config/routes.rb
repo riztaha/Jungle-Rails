@@ -13,12 +13,14 @@ Rails.application.routes.draw do
   namespace :admin do
     root to: "dashboard#show"
     resources :products, except: [:edit, :update, :show]
+    resources :categories, except: [:destroy]
   end
 
   resources :about, only: [:show]
   # resources :about, path: "/about"
 
   # get "about" => "about#show"
+
   # resources :about do
   #   root to: "about#show"
   # end
