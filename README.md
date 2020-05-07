@@ -25,3 +25,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+!["Index Page"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Main%20Page.png)
+!["Login Page"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/User%20Login.png)
+!["Empty Cart Page"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Empty%20Cart.png)
+!["Filled Cart Page"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Filled%20Cart.png)
+!["Admin Dashboard"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Admin%20Dashboard.png)
+!["Admin Categories"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Admin%20Categories.png)
+!["Admin Products"](https://github.com/riztaha/Jungle-Rails/blob/master/docs/Admin%20Products.png)
